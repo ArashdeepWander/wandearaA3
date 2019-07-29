@@ -1,0 +1,1 @@
+h1,h3,nav,section{text-align:center}body{background-color:#1e90ff}div{vertical-align:middle}@media only screen and (min-width:540px){.gridArea{display:grid;grid-template-columns:1fr 1fr;grid-template-rows:auto;grid-template-areas:"imgArea listArea";grid-gap:5px}}
